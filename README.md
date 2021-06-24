@@ -1,3 +1,6 @@
+forking this repo to figure out how camera works
+
+
 Android Audio and video Examples
 ===========
 
